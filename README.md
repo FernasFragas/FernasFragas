@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a software engineer currently working at Emma. My main focus is on developing software using Golang, while I also have a strong background in Kotlin and Java. I am passionate about continuously learning new technologies and enhancing my knowledge to develop better and more efficient software. My goal is to contribute my skills and knowledge to develop innovative software solutions that can benefit society as a whole
+Hi, I am a software engineer currently working at Emma. My main focus is on developing software using Golang, while I also have a strong background in Kotlin and Java. I am passionate about continuously learning new technologies and enhancing my knowledge to develop better and more efficient software. My goal is to contribute with my skills and knowledge to develop innovative software solutions that can benefit society as a whole
 
 
 # 💻 Tech Stack:
