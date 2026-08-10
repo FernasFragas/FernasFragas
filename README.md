@@ -2,7 +2,7 @@
 Hi, I am a software engineer currently working at Emma. My main focus is on developing software using Golang, while I also have a strong background in Kotlin and Java.
 I'm always learning and experimenting with new technologies, with the long-term goal of building innovative software and infrastructure that can solve meaningful problems and contribute to technological progress.
 
-### Backend & Languages
+### 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
